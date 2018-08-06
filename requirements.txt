@@ -1,0 +1,6 @@
+fLask
+flask_ask
+uwsgi
+psycopg2
+cryptography==2.0
+requests
